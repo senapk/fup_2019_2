@@ -1,0 +1,113 @@
+- [x] básico
+    - [x] apresentação da linguagem
+    - [x] leitura da apostila do pplware
+    - [x] configuração do ambiente e ide online(repl.it)
+    - [x] comandos básicos do linux
+- [x] compilação
+    - [x] compilar no terminal com gcc
+    - [x] utilizar os parâmetros como -lm -Wall -std=c11
+    - [x] criar um makefile e compilar utilizando make
+    - [x] compreender código fonte, bibliotecas externas
+    - [x] abrindo, visualizando e compilando no vscode
+- [x] técnicas de programação
+    - [x] utilização de debug
+- [ ] boas práticas mínimas - clean code
+    - [x] inicialize todas as variáveis que criar
+    - [x] sempre idente corretamente
+    - [x] escolha variáveis e funções com nomes descritivos
+    - [x] funções devem ter nomes que representam ações
+- [ ] tipos de dados 
+    - [x] fazer leitura de dados
+        - [x] int, float, char
+        - [x] bool (stdbool.h)
+            - [x] representação de booleano com inteiro
+        - [x] structs
+        - [x] enum
+        - [x] ponteiros
+        - [x] char
+            - [x] apresentação da tabela asc
+        - [x] strings
+    - [x] utilizando typedef para mostrar o tamanho dos elementos em bytes
+- [ ] diretivas de precompilação
+    - [ ] include, ifdef, ifndef, endif, define, undef
+- [x] entrada e saída
+    - [x] fazer print formatado
+        - [x] controle de casas decimais
+        - [x] controle de zeros à esquerda
+- [x] operações básicas
+    - [x] biblioteca math.h
+        - [x] uso do -lm no gcc
+        - [x] sqrt, pow
+        - [x] floor, round, ceil
+    - [x] uso do operador de módulo para controle de loops
+        - [x] remoção de loops e correção de negativos (questão: cabeça da cobra)
+    - [x] uso de módulo e divisão para decompor inteiros (spock palindromo)
+- [ ] seleção
+    - [x] `if` e `else`
+    - [x] operador ternário
+    - [x] operadores booleanos
+    - [x] busca intervalada (imc)
+    - [x] estratégia de deixar sempre um else para o caso mais difícil (jokenpo)
+    - [ ] operação modular com deslocamento de intervalo (zerim americano, soma char)
+- [x] bibliotecas externas e funções
+    - [x] desenho com xpaint
+- [x] repetição
+    - [x] estruturas
+        - [x] `while`
+        - [x] `do while`
+        - [x] `for`
+    - [x] técnicas
+        - [x] `for` com mais de uma variável e com diferentes incrementos (jogo concentração)
+        - [x] técnicas de busca e contagem
+        - [x] técnica do booleano de controle (é primo)
+- [x] funções
+    - [x] entendimento de parâmetros e tipo de retorno
+    - [X] visualização da pilha de execução e dos saltos entre funções usando debug
+    - [x] uso de protótipos
+    - [x] use preferencialmente funções puras (sem variáveis globais)
+    - [ ] passagem de parâmetro por cópia e endereço (vetores e ponteiros)
+- [x] geração de números aleatórios
+    - [x] uso da biblioteca stdlib.h e time.h
+    - [x] compreensão do uso da semente do srand()
+    - [x] função para gerar um número dentro de um intervalo
+- [x] vetores
+    - [x] formas de inicialização de um vetor
+    - [x] cálculo automático do tamanho do vetor utilizando typedef
+    - [x] funções básicas sobre vetores
+        - [x] encontrar mínimo em intervalo
+        - [x] encontrar posição (valor ou mínimo)
+        - [x] contar ocorrências em intervalo
+    - [x] técnicas
+        - [x] ordenação
+        - [x] busca binária
+        - [x] vetor auxiliar para filtrar elementos
+        - [x] vetor auxiliar para marcação de ocorrências 
+        - [x] vetor auxiliar para contagem de ocorrências
+    - [ ] string como vetor de char
+    - [ ] vetor de strings para consulta
+- [x] matrizes
+    - [ ] Criando vetores bidimensionais
+    - [ ] Inicialização Inline
+    - [ ] Percorrendo e imprimindo
+    - [ ] Lendo e imprimindo matrizes de caracteres
+- [ ] strings
+    - [ ] atribuição, alocação
+    - [ ] diferença entre `const char * ptr` e `char vet[]`
+    - [ ] chars
+        - [ ] is_letter, isupper, isalpha, isdigit, toupper
+        - [ ] método da implementação em vetor para busca
+        - [ ] método da busca no intervalo
+    - [ ] strlen, strcat, strcmp, strcpy
+    - [ ] fgets, __strtok_r
+    - [ ] sscanf, ssprint
+    - [ ] scanf retornando contagem de leituras no loop
+    - [ ] converter usando atoi, itoa, strtoll
+- [ ] arquivos
+    - [ ] redirect no bash usando (input) <,  (overwrite) >, (append) >>
+    - [ ] envio de EOF com (unix) CTRL-D, (windows) CTRL-Z Enter
+    - [ ] ler direto de arquivo com FILE *, fscanf, fprintf
+    - [ ] escrever em arquivo usando FILE *
+    - [ ] ler e escrever usar arquivo binário
+        - [ ] dados e structs
+        - [ ] vetores
+    
