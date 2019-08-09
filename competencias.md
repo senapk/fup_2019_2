@@ -110,4 +110,6 @@
     - [ ] ler e escrever usar arquivo binário
         - [ ] dados e structs
         - [ ] vetores
+- [ ] extra
+    - argc, argv
     
