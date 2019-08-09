@@ -26,5 +26,15 @@
 - [ ] gcc, make
 
 ## S01E03 - Variáveis, Tipos e I/O
-
-- 
+- Regras básicas de estilo
+- Lendo e escrevendo
+    - strings, int, float, char
+    - scanf retornando quantidade de variáveis lidas
+    - travando o scanf com entrada errada
+    - comunicação teclado - buffer - programa
+- Madições
+    - Maldição do char scanf("%c")
+    - Maldição da divisão inteira
+- Impressão formatada
+    - Imprimindo zeros à esquerda HH:MM:SS
+    - Imprimindo casas decimais no float
