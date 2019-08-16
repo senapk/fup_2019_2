@@ -6,7 +6,9 @@
 - [ ] compilação
     - [ ] compilar no terminal com gcc
     - [ ] utilizar os parâmetros como -lm -Wall -std=c11
+    - [ ] utilizar o `clang -Weverything`
     - [ ] criar um makefile e compilar utilizando make
+        - utilizar as tags `CC` e `CFLAGS`
     - [ ] compreender código fonte, bibliotecas externas
     - [ ] abrindo, visualizando e compilando no vscode
 - [ ] técnicas de programação
