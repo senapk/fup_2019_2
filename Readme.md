@@ -38,9 +38,29 @@
         - scanf retornando quantidade de variáveis lidas
         - travando o scanf com entrada errada
         - comunicação teclado - buffer - programa
-    - Madições
+    - MaudissõeZ
         - Maldição do char scanf("%c")
         - Maldição da divisão inteira
     - Impressão formatada
         - Imprimindo zeros à esquerda HH:MM:SS
         - Imprimindo casas decimais no float
+
+## S02E01 - Seleção
+- variável booleana
+    - stdbool
+    - int
+- operação de escopo
+- operador ternário
+- exercícios
+
+## S02E01 - Operador de Módulo
+- resolução de atividades utilizando o operador de módulo
+    - hora, minuto
+    - voltas na pista
+- [ ] começe a fazer os exercícios no moodle do fup is fun
+- [ ] marque os exercícios que fizer utilizando a marcação do aluno
+
+## S03E01 - Moodle atacar
+- Regras:
+    - só pode fazer o L2 depois de todas as L1 feitas
+    - L1 não vale na contagem das 100 questões.
