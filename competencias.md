@@ -1,4 +1,5 @@
 - [ ] básico
+    - [ ] instalação mingw, configuração
     - [ ] apresentação da linguagem
     - [ ] leitura da apostila do pplware
     - [ ] configuração do ambiente e ide online(repl.it)
