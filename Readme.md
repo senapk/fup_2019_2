@@ -1,6 +1,6 @@
 # Links
 - [Youtube](https://www.youtube.com/playlist?list=PLqwyjBSVOHRzgNEUNwc0hAHBOxy5M5JXW)
-- [Hangouts](https://hangouts.google.com/group/wsUdaz37EtLqA5ni9)
+- [Hangouts](https://hangouts.google.com/group/RUEkyLG2NuDJBeGD9)
 - Moodle:  
 - [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/)
 
