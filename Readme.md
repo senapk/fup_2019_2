@@ -3,6 +3,7 @@
 - [Hangouts](https://hangouts.google.com/group/RUEkyLG2NuDJBeGD9)
 - Moodle:  
 - [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/)
+- [Notas](https://docs.google.com/spreadsheets/d/1vPgqfumtIZcsIcsiSqshOkEGr0XDIu7Z2JUNcZugS7s/edit#gid=1459566463)
 
 ## S01E01 - Boas Vindas
 - Casa
