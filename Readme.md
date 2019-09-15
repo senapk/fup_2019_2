@@ -5,6 +5,8 @@
 - [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/)
 - [Notas](https://docs.google.com/spreadsheets/d/1vPgqfumtIZcsIcsiSqshOkEGr0XDIu7Z2JUNcZugS7s/edit#gid=1459566463)
 
+## a - b, c: d! e@ f# g$ h% i& j* k( l) m< m;
+
 ## S01E01 - Boas Vindas
 - Casa
   - [ ] Leia a apostila
