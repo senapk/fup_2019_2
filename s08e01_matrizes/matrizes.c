@@ -51,4 +51,10 @@ int main(){
                 scanf(" %c", &mat[l][c]);
         mat_show_char(&mat[0][0], nl, nc);
     }
+    {
+        int nl = 5, nc = 7;
+        int mat[nl * nc];
+        for(int i = 0; i < nl * nc; i++)
+            mat[]
+    }
 }
