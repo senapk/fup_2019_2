@@ -44,7 +44,36 @@
 ## Help
 
 leia posição
-inicialize vetor
+inicialize vetor vazio
 para todas as direções
-    inicie com valor
-    
+    enquanto valor for maior que 0
+        ponho o valor
+        ando na direção
+        diminuo o valor
+
+```c
+int size = 0, pos = 0, forca = 0;
+scanf("%d %d %d", &size, &pos, &forca);
+int vet[size];
+for(int i = 0; i < size; i++)
+    vet[i] = 0;
+int forca_bak = forca;
+for(int i = pos; forca > 0; i += 1, forca -= 1){
+    if(i >= size)
+        break;
+    vet[i] = forca;
+}
+
+int forca = forca_bak;
+for(int i = pos; forca > 0; i -= 1, forca -= 1){
+    if(i < 0)
+        break;
+    vet[i] = forca;
+}
+```
+
+7
+4
+9
+0000987
+
