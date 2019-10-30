@@ -3,9 +3,9 @@
 - [Hangouts](https://hangouts.google.com/group/RUEkyLG2NuDJBeGD9)
 - Moodle:  
 - [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/)
-- [Notas](https://docs.google.com/spreadsheets/d/1vPgqfumtIZcsIcsiSqshOkEGr0XDIu7Z2JUNcZugS7s/edit#gid=1459566463)
+- [Notas](https://docs.google.com/spreadsheets/d/1toZZ-Vp_DuLNMh9Kku0lBUS1MQ1MpPSzCzcBVn3EuNc/edit#gid=0)
+- [Sugestões de ideias para trabalhos finais](https://qxcodepoo.github.io/)
 
-## a - b, c: d! e@ f# g$ h% i& j* k( l) m< m;
 
 ## S01E01 - Boas Vindas
 - Casa
