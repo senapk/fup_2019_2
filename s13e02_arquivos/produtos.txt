@@ -1,0 +1,6 @@
+ovo 3.40
+xilito 8.30
+pipoca 0.30
+toddy 5.60
+granola 12.30
+#
