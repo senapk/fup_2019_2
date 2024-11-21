@@ -19,6 +19,16 @@ vou
 desenhar
 algo lindo
 
+Isso é muito feio
+
+    a
+    dsfasdf
+    asd
+    fa
+    dsf
+    adsf
+    adsfsa
+
 ## S03E03 - Desenhando
 - Faça um desenho que utilize variáveis
 - Faça uma interação com o usuário para desenhar em coordenadas que o usuário informar.
