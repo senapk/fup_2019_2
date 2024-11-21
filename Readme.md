@@ -6,11 +6,13 @@
 - [Notas](https://docs.google.com/spreadsheets/d/1toZZ-Vp_DuLNMh9Kku0lBUS1MQ1MpPSzCzcBVn3EuNc/edit#gid=0)
 - [Sugestões de ideias para trabalhos finais](https://qxcodepoo.github.io/)
 
-
 ## S02E03 - Moodle atacar
 - Regras:
     - só pode fazer o L2 depois de todas as L1 feitas
     - Exercícios e teste semanal
+
+## Novas atualizações importantes para os alunos sofrerem menos
+
 
 ## S03E01 - Recaptulação.
 - math.h
