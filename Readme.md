@@ -8,14 +8,7 @@
 
 ## S02E03 - Moodle atacar
 - Regras:
-    - só pode fazer o L2 depois de todas as L1 feitas
-    - Exercícios e teste semanal
-
-## Novas atualizações importantes para os alunos sofrerem menos
-
-
-## S03E01 - Recaptulação.
-- math.h
+    - só pode fazer o L2 depois de 
 - técnica do deslocamento de loop
     - zerim ou um americano
 - Makefile com `CFLAGS` no final
