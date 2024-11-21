@@ -14,9 +14,13 @@ sadf03E01 - Recaptulação.
 - Makefile com `CFLAGS` no final
 
 ## S03E02 - Desenhando
-- Apresentando a biblioteca de desenho xpaint
-- Fazendo os primeiros desenhos usando variáveis
-- Uso da função seno e cosseno para caldular distâncias nos eixos.
+a
+dsfasdf
+asd
+fa
+dsf
+adsf
+adsfsa
 
 ## S03E03 - Desenhando
 - Faça um desenho que utilize variáveis
