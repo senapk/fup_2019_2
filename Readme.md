@@ -15,6 +15,8 @@ asdf
 asdf
 sadf03E01 - Recaptulação.
 - math.h
+- Regras:
+    - só pode fazer o L2 depois de 
 - técnica do deslocamento de loop
     - zerim ou um americano
 - Makefile com `CFLAGS` no final
