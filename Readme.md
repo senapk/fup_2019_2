@@ -8,9 +8,9 @@
 
 
 ## S02E03 - Moodle atacar
-- Regras:
-    - só pode fazer o L2 depois de todas as L1 feitas
-    - Exercícios e teste semanal
+
+- Atacar é bom mas é perigoso.
+- Porque quem ataca se abre a ser atacado.
 
 ## S03E01 - Recaptulação.
 - math.h
