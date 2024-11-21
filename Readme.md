@@ -6,11 +6,13 @@
 - [Notas](https://docs.google.com/spreadsheets/d/1toZZ-Vp_DuLNMh9Kku0lBUS1MQ1MpPSzCzcBVn3EuNc/edit#gid=0)
 - [Sugestões de ideias para trabalhos finais](https://qxcodepoo.github.io/)
 
-
 ## S02E03 - Moodle atacar
 
 - Atacar é bom mas é perigoso.
 - Porque quem ataca se abre a ser atacado.
+
+## Novas atualizações importantes para os alunos sofrerem menos
+
 
 ## S03E01 - Recaptulação.
 - math.h
