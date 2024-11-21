@@ -31,6 +31,8 @@ sadf03E01 - Recaptulação.
 - Faça uma interação com o usuário para desenhar em coordenadas que o usuário informar.
     - Pergunte pontos x, y e coloque pequenos círculos nesses pontos
     - Ligue os pontos que o usuário digitar com retas.
+jkhjklkhkjhlkj
+
 
 ## S06E03 - Atividades com vetores
 - Mostrar o vetor          : `s`
