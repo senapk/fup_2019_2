@@ -8,13 +8,12 @@
 
 ## S02E03 - Moodle atacar
 
-- Atacar é bom mas é perigoso.
-- Porque quem ataca se abre a ser atacado.
+- Atacar adsfasdfa
+asdf
+## S
 
-## Novas atualizações importantes para os alunos sofrerem menos
-
-
-## S03E01 - Recaptulação.
+asdf
+sadf03E01 - Recaptulação.
 - math.h
 - técnica do deslocamento de loop
     - zerim ou um americano
