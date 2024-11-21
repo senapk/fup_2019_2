@@ -1,11 +1,3 @@
-# Links
-- [Youtube](https://www.youtube.com/playlist?list=PLqwyjBSVOHRzgNEUNwc0hAHBOxy5M5JXW)
-- [Hangouts](https://hangouts.google.com/group/RUEkyLG2NuDJBeGD9)
-- Moodle:  
-- [OBI](https://olimpiada.ic.unicamp.br/pratique/pj/)
-- [Notas](https://docs.google.com/spreadsheets/d/1toZZ-Vp_DuLNMh9Kku0lBUS1MQ1MpPSzCzcBVn3EuNc/edit#gid=0)
-- [Sugestões de ideias para trabalhos finais](https://qxcodepoo.github.io/)
-
 ## S02E03 - Moodle atacar
 
 - Atacar adsfasdfa
